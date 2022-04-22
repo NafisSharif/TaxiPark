@@ -10,9 +10,9 @@ class User
     private $user_id;
 
     private $db_host = "localhost";
-    private $db_name = "homework";
+    private $db_name = "Taxi";
     private $db_user = "postgres";
-    private $db_pass = "777";
+    private $db_pass = "000";
 
     private $is_authorized = false;
 
